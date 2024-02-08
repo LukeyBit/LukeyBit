@@ -5,6 +5,8 @@ I'm a engineering student at The Royal Institute of Technology in Stockholm, Swe
 - I'm currently learning C and MIPS Assembly 😨
 - I'm currently working on a bunch of CompSci labs 🥵
 - I would love to learn Rust 😍
+- My editor of choice is Visual Studia Code but I'm trying to move to Neovim but it's taking me a minute 😂
+- To contact me, hit me up on Reddit [![Reddit user LukeyBit](https://img.shields.io/badge/Follow%20me-Reddit-red?logo=reddit&logoColor=white)](https://www.reddit.com/user/LukeyBit)
 
 <!--
 **LukeyBit/LukeyBit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
