@@ -1,5 +1,5 @@
 # Hi, I'm Lukas 👋
-### A engineering student at The Royal Institute of Technology in Stockholm, Sweden.
+### An engineering student at The Royal Institute of Technology in Stockholm, Sweden.
 
 I am experienced in programming in Java, Python, C and JavaScript/TypeScript. I am also experienced with both front and backend development as well as SQL. 
 
