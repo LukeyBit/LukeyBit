@@ -9,7 +9,6 @@ I have quite a few personal projects but some that I am extra proud of are:
 | Project name                                                                       | Description                                                                                                                        |
 |------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
 | **[PlugBot](https://github.com/LukeyBit/PlugBot)** 🤖 | A simple telegram bot that each day sends its users a graph of the electricity prices for the next 24 hours in the zone S3, Sweden. |
-| **[Grapher](https://github.com/LukeyBit/Grapher)** 📈 | A python program that simply creates a graph from the first two columns of data in a CSV file. |
 | **[MealMaster](https://github.com/LukeyBit/Gyarb2023)** 🍕 | A full stack web application that lets users log in to an account and search for recipes based on a large number of dietary preferences. Users can also rate different dishes where an algorithm will then suggest recipes similair to what the user's preferences. This project was made as a diploma project at Nacka Gymnasium. |
 
 You can contact me via LinkedIn:
